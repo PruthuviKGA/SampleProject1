@@ -1,4 +1,4 @@
-﻿namespace ReactCrudDemo.ClientApp.Controllers
+﻿namespace ReactCrudDemo.Controllers
 {
     public class SampleDataController
     {
